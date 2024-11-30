@@ -2,6 +2,7 @@ package com.example.biblestudyapp
 
 import androidx.appcompat.app.AppCompatActivity // Import AppCompatActivity
 import android.os.Bundle
+import android.text.Html
 import android.widget.TextView
 
 class LessonDetailActivity : AppCompatActivity() {
@@ -17,6 +18,6 @@ class LessonDetailActivity : AppCompatActivity() {
         val contentTextView: TextView = findViewById(R.id.lesson_detail_content)
 
         titleTextView.text = title
-        contentTextView.text = content
+        contentTextView.text = Html.fromHtml(content, Html.FROM_HTML_MODE_COMPACT)
     }
 }
