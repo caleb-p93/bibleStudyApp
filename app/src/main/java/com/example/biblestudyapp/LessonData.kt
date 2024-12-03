@@ -702,56 +702,56 @@ object LessonData {
             "Lesson #25",
             "What Are You Living For?",
             "Living Like Christ",
-            "Ask about your own thoughts: What is on your mind the most on any given day?…Are your thoughts and desires molded by the world or by God?<br><br>" +
-                    "Read 1 John 2:15-17…<br><br>" +
-                    "Ask about living for things that fade away: Why should we live for things that fade away?…We shouldn't. The length of life is minuscule compared to eternity.<br><br>" +
-                    "Ask about what we should live for: What should we live for?…In other words, what things don’t fade away when we die?…Our relationship with God is forever lasting.<br><br>" +
-                    "Read Ecclesiastes 5:2…What is your interpretation of this/what do you think it means?…When making any decision in life, especially involved with God, think hard and pray about it. Don’t jump into anything without thorough thought about it.<br><br>" +
-                    "Ask about faith: Is it possible to leap too fast into faith in God? (personal question)…Was your decision to follow God a quick one or did you take time to think about it before you decided to commit?<br><br>" +
-                    "Talk about my concern about intentions: My only concern is that we may not have the right intentions when it comes to faith. We may say with our mouth that “Jesus Christ is Lord” and not with our heart. Specifically, we may choose to say we have faith only because we fear the potential existence of hell (“aka fire insurance”). My advice is Eccl 5:2..”Do not be quick with your mouth, do not be hasty in your heart to utter anything before God.”<br><br>" +
-                    "Talk about Ecclesiastes 5:2: At the end of verse 2, it mentions that we should let our words be few when it comes to communication with God. In this, God admires being concise, honest, and from the heart rather than long, meaningless, with intentions to look like a “good Christian”.<br><br>" +
-                    "Talk about God’s wants: If you are truly living for God, make sure you know what God wants (hint: use the Bible). <br><br>" +
-                    "Read Ecclesiastes 2:10-11… Don’t give in to the sinful worldly pleasures. Instead, do things for God and he will reward you.<br><br>" +
-                    "Read Ecclesiastes 2:26…Rewards that we will receive are wisdom, knowledge, and happiness.<br><br>" +
-                    "Ask about these rewards: Do you feel that you have all of these? If you are living for the world and its desires, you won’t have many of these. Worly rewards or gains give us temporary joy and pleasure and tend to leave us feeling empty and craving more.<br><br>" +
-                    "Ask about what nonbelievers live for…What do most nonbelievers live for?…happiness through wealth, power, a purpose without God. Will these paths lead them to wisdom, knowledge and happiness?…God would say that it doesn’t.<br><br>" +
-                    "Read the end of Ecclesiastes 2:26…”To the sinner he gives the task of gathering and storing up wealth to hand it over to the one who pleases God. This too is meaningless, a chasing after the wind”…Indirectly, the wealth of nonbeliever eventually makes its way back to someone who will use it to honor God.<br><br>" +
-                    "Talk about what it means to live for God…If you are living for God, you must have a heart of prayer. This basically means that you should always have the Lord on your mind. Moreover, make choices as if you are Jesus. Additionally, consider your needs over your wants.<br><br>" +
-                    "Ask about needs: What are some needs that God expects us to pray for?…Forgiveness, strength, humility, etc. If it is according to His will, He will hear it. In order for us to know what we need to pray for, we need to know and understand the will of God. To understand the will of God, pray and study the Bible.<br><br>" +
-                    "Read Hebrews 4:14-16…Do you feel that your needs are aligned with what God wants you to desire?<br><br>" +
-                    "Ask about God's wants: What does God want you to desire?…If we are living for God, we must have a heart for the lost. The lost could be referred to as a non-believer or the believer that needs some redirection. As Jesus ate food with sinners, including unlawful tax-collectors and prostitutes, we must do the same. We need to be an example to others as Jesus is for us.<br><br>" +
-                    "An example of being a good influence to others: If your friends are about to do something foolish, call them out on it and inform them that you won’t participate in it.<br><br>" +
-                    "Read Amos 8:11…We must be the ones who share the words of God to others…A famine of God’s word may be spreading all throughout the world. Do it! Share the Word of God to others. Live for God in all you do. Have the mindset that God would want us to have. Continue to love God and others.<br><br>"
+            "<b>Ask about your own thoughts:</b> What is on your mind the most on any given day?…Are your thoughts and desires molded by the world or by God?<br><br>" +
+                    "<b>Read 1 John 2:15-17…</b><br><br>" +
+                    "<b>Ask about living for things that fade away:</b> Why should we live for things that fade away?…We shouldn't. The length of life is minuscule compared to eternity.<br><br>" +
+                    "<b>Ask about what we should live for:</b> What should we live for?…In other words, what things don’t fade away when we die?…Our relationship with God is forever lasting.<br><br>" +
+                    "<b>Read Ecclesiastes 5:2…</b>What is your interpretation of this/what do you think it means?…When making any decision in life, especially involved with God, think hard and pray about it. Don’t jump into anything without thorough thought about it.<br><br>" +
+                    "<b>Ask about faith:</b> Is it possible to leap too fast into faith in God? (personal question)…Was your decision to follow God a quick one or did you take time to think about it before you decided to commit?<br><br>" +
+                    "<b>Talk about my concern about intentions:</b> My only concern is that we may not have the right intentions when it comes to faith. We may say with our mouth that “Jesus Christ is Lord” and not with our heart. Specifically, we may choose to say we have faith only because we fear the potential existence of hell (“aka fire insurance”). My advice is Eccl 5:2..”Do not be quick with your mouth, do not be hasty in your heart to utter anything before God.”<br><br>" +
+                    "<b>Talk about Ecclesiastes 5:2:</b> At the end of verse 2, it mentions that we should let our words be few when it comes to communication with God. In this, God admires being concise, honest, and from the heart rather than long, meaningless, with intentions to look like a “good Christian”.<br><br>" +
+                    "<b>Talk about God’s wants:</b> If you are truly living for God, make sure you know what God wants (hint: use the Bible). <br><br>" +
+                    "<b>Read Ecclesiastes 2:10-11…</b> Don’t give in to the sinful worldly pleasures. Instead, do things for God and he will reward you.<br><br>" +
+                    "<b>Read Ecclesiastes 2:26…</b>Rewards that we will receive are wisdom, knowledge, and happiness.<br><br>" +
+                    "<b>Ask about these rewards:</b> Do you feel that you have all of these? If you are living for the world and its desires, you won’t have many of these. Worly rewards or gains give us temporary joy and pleasure and tend to leave us feeling empty and craving more.<br><br>" +
+                    "<b>Ask about what nonbelievers live for…</b>What do most nonbelievers live for?…happiness through wealth, power, a purpose without God. Will these paths lead them to wisdom, knowledge and happiness?…God would say that it doesn’t.<br><br>" +
+                    "<b>Read the end of Ecclesiastes 2:26…</b>”To the sinner he gives the task of gathering and storing up wealth to hand it over to the one who pleases God. This too is meaningless, a chasing after the wind”…Indirectly, the wealth of nonbeliever eventually makes its way back to someone who will use it to honor God.<br><br>" +
+                    "<b>Talk about what it means to live for God…</b>If you are living for God, you must have a heart of prayer. This basically means that you should always have the Lord on your mind. Moreover, make choices as if you are Jesus. Additionally, consider your needs over your wants.<br><br>" +
+                    "<b>Ask about needs:</b> What are some needs that God expects us to pray for?…Forgiveness, strength, humility, etc. If it is according to His will, He will hear it. In order for us to know what we need to pray for, we need to know and understand the will of God. To understand the will of God, pray and study the Bible.<br><br>" +
+                    "<b>Read Hebrews 4:14-16…</b>Do you feel that your needs are aligned with what God wants you to desire?<br><br>" +
+                    "<b>Ask about God's wants:</b> What does God want you to desire?…If we are living for God, we must have a heart for the lost. The lost could be referred to as a non-believer or the believer that needs some redirection. As Jesus ate food with sinners, including unlawful tax-collectors and prostitutes, we must do the same. We need to be an example to others as Jesus is for us.<br><br>" +
+                    "<b>An example of being a good influence to others:</b> If your friends are about to do something foolish, call them out on it and inform them that you won’t participate in it.<br><br>" +
+                    "<b>Read Amos 8:11…</b>We must be the ones who share the words of God to others…A famine of God’s word may be spreading all throughout the world. Do it! Share the Word of God to others. Live for God in all you do. Have the mindset that God would want us to have. Continue to love God and others.<br><br>"
         ),
 
         Lesson(
             "Lesson #26",
             "Doubt",
             "Being Human",
-            "Ask about doubt…What is doubt?…(Bible dictionary definition) To waver in opinion or judgment, to be in uncertainty as to belief expecting everything. Simply, to question.<br><br>" +
-                    "Ask about when we doubt…In what instances do we doubt?…Examples: 1) You don’t believe that you will finish in 1st place, 2) You doubt whether your parents truly care about your best interests, 3) Doubting whether there is God out there<br><br>" +
-                    "Ask about why we doubt: Why do we doubt? (Regarding our faith and goals)…We expect to see the results immediately. We are impatient and hopeless.<br><br>" +
-                    "Read Mark 9:14-29…Jesus is expressing his frustration to a crowd that claimed to follow Him. They doubted their abilities to drive demons out of a demon-possessed boy. Jesus quoted “Everything is possible for the one who believes.” Here, not everyone who believed in God believed that they could do such miracles. When we doubt our abilities, do what the boy’s father did. He said in vs. 24,”I do believe; help me overcome my unbelief.”<br><br>" +
-                    "Ask about when we doubt: When you doubt, what should you do?…<br><br>" +
-                    "Seek God and don’t let your doubts push you away. This includes acknowledging your doubts and responding with prayer, scripture reading, and worship. Read Deuteronomy 4:29-31<br><br>" +
-                    "Seek others. Don’t be afraid to ask questions. You won’t be considered a terrible Christ-follower if you ask questions. Read Proverbs 27:17<br><br>" +
-                    "Ask about doubting: What do we need to realize about doubting?…If we don’t humble ourselves and put our full faith in God in everything we do, our selfish thirst will never be quenched and our questions will never be answered. For example, I may say “If I see God or an act of God, I will believe.” We have to realize this: There were many people that saw Jesus and the miracles that he had performed, yet they refused to believe that He was who He said He was. They wanted more. Read John 12:37-43<br><br>" +
-                    "What are steps to help minimize doubt?<br><br>" +
-                    "Ask about the actions (1st Step) to minimize doubt: What should we do to minimize doubt?…The first step is to put your full faith in Him. This includes both believing and trusting in Him. I know it sounds tough to do, but it is worth it. God wants either all or nothing of you, so I recommend giving all. Read Revelation 3:14-22. Honestly, commitment is scary for most people, but this one is necessary.<br><br>" +
-                    "Ask about the result of commitment: What is the result of full commitment to God?…As a result of this commitment to God, we begin to understand that what we want isn’t always what we need. Additionally, with a full devotion to God, what we want and what we need may become the same. In other words, full-devotion may align our mindset and heart-set with God’s. As a result, we will be doubtless.<br><br>" +
-                    "Talk about the 2nd step to help minimize doubt…The second step to minimizing doubt is acknowledging how amazing and powerful the lifestyle is of a fully-devoted Christ follower. It is all about selflessness and love. That lifestyle will be so powerful and impactful in this time we live in now. Also, thank God that he gave us the guidelines to live this type of life (The Bible). Read Philippians 2:1-11, 1 Peter 3:8-12, Psalm 1:1-7<br><br>" +
-                    "Talk about the 3rd step to help minimize doubt…The third step to minimizing doubt is to remember our rewards. The rewards, of course, shouldn’t be the main focus and reason for not doubting, but it is definitely necessary and worth mentioning. Because of our faith, we will be rewarded. We have the opportunity to party with God for eternity as a believer in Christ. How wonderful is that? Read Colossians 3:23-24. Since we know that we are saved, let nothing move you. Read 1 Corinthians 15:56-58<br><br>" +
-                    "Get in the perspective of an atheist: Imagine being in an atheist’s shoes. What is the outcome of their existence? A slight opportunity to leave a legacy on Earth for all to remember. What’s the point of that? You will be dead and won’t even see how it affects everyone. Read 1 Timothy 5:5-6<br><br>" +
-                    "Read a passage from the book Nausea by Jean-Paul Sartre: This is a passage from a book entitled Nausea by Jean-Paul Sartre. “It was true, I had already realized it – I hadn’t any ‘right’ to exist at all. I had appeared by chance, I existed like a stone, a plant, a microbe. I could feel nothing to myself but an in sequential buzzing. I was thinking…that there we are eating and drinking, to preserve our precious existence, and that there’s nothing, nothing, absolutely no reason for existing.”<br><br>" +
-                    "Ask about the passage: What do you say about that?<br><br>" +
-                    "Ask about the result of putting faith in God: What does faith in God give us?…A reason to live, a purpose<br><br>" +
-                    "Talk about the result of conversion: If we convince/ persuade a non-believer that there is a God, we gain a follower of Christ. How long does that last?…Forever!! If a non-believer convinces a believer that there is no God, they gain self-praise. How long does that last?…A week or month.<br><br>" +
-                    "Read Matthew 5:12…Our rewards last for eternity<br><br>" +
-                    "Summary of lesson:<br><br>" +
+            "<b>Ask about doubt…</b>What is doubt?…(Bible dictionary definition) To waver in opinion or judgment, to be in uncertainty as to belief expecting everything. Simply, to question.<br><br>" +
+                    "<b>Ask about when we doubt…</b>In what instances do we doubt?…Examples: 1) You don’t believe that you will finish in 1st place, 2) You doubt whether your parents truly care about your best interests, 3) Doubting whether there is God out there<br><br>" +
+                    "<b>Ask about why we doubt:</b> Why do we doubt? (Regarding our faith and goals)…We expect to see the results immediately. We are impatient and hopeless.<br><br>" +
+                    "<b>Read Mark 9:14-29…</b>Jesus is expressing his frustration to a crowd that claimed to follow Him. They doubted their abilities to drive demons out of a demon-possessed boy. Jesus quoted “Everything is possible for the one who believes.” Here, not everyone who believed in God believed that they could do such miracles. When we doubt our abilities, do what the boy’s father did. He said in vs. 24,”I do believe; help me overcome my unbelief.”<br><br>" +
+                    "<b>Ask about when we doubt:</b> When you doubt, what should you do?…<br><br>" +
+                    "<b>Seek God and don’t let your doubts push you away.</b> This includes acknowledging your doubts and responding with prayer, scripture reading, and worship. Read Deuteronomy 4:29-31<br><br>" +
+                    "<b>Seek others.</b> Don’t be afraid to ask questions. You won’t be considered a terrible Christ-follower if you ask questions. Read Proverbs 27:17<br><br>" +
+                    "<b>Ask about doubting:</b> What do we need to realize about doubting?…If we don’t humble ourselves and put our full faith in God in everything we do, our selfish thirst will never be quenched and our questions will never be answered. For example, I may say “If I see God or an act of God, I will believe.” We have to realize this: There were many people that saw Jesus and the miracles that he had performed, yet they refused to believe that He was who He said He was. They wanted more. Read John 12:37-43<br><br>" +
+                    "<b>What are steps to help minimize doubt?</b><br><br>" +
+                    "<b>Ask about the actions (1st Step) to minimize doubt:</b> What should we do to minimize doubt?…The first step is to put your full faith in Him. This includes both believing and trusting in Him. I know it sounds tough to do, but it is worth it. God wants either all or nothing of you, so I recommend giving all. Read Revelation 3:14-22. Honestly, commitment is scary for most people, but this one is necessary.<br><br>" +
+                    "<b>Ask about the result of commitment:</b> What is the result of full commitment to God?…As a result of this commitment to God, we begin to understand that what we want isn’t always what we need. Additionally, with a full devotion to God, what we want and what we need may become the same. In other words, full-devotion may align our mindset and heart-set with God’s. As a result, we will be doubtless.<br><br>" +
+                    "<b>Talk about the 2nd step to help minimize doubt…</b>The second step to minimizing doubt is acknowledging how amazing and powerful the lifestyle is of a fully-devoted Christ follower. It is all about selflessness and love. That lifestyle will be so powerful and impactful in this time we live in now. Also, thank God that he gave us the guidelines to live this type of life (The Bible). Read Philippians 2:1-11, 1 Peter 3:8-12, Psalm 1:1-7<br><br>" +
+                    "<b>Talk about the 3rd step to help minimize doubt…</b>The third step to minimizing doubt is to remember our rewards. The rewards, of course, shouldn’t be the main focus and reason for not doubting, but it is definitely necessary and worth mentioning. Because of our faith, we will be rewarded. We have the opportunity to party with God for eternity as a believer in Christ. How wonderful is that? Read Colossians 3:23-24. Since we know that we are saved, let nothing move you. Read 1 Corinthians 15:56-58<br><br>" +
+                    "<b>Get in the perspective of an atheist:</b> Imagine being in an atheist’s shoes. What is the outcome of their existence? A slight opportunity to leave a legacy on Earth for all to remember. What’s the point of that? You will be dead and won’t even see how it affects everyone. Read 1 Timothy 5:5-6<br><br>" +
+                    "<b>Read a passage from the book Nausea by Jean-Paul Sartre:</b> This is a passage from a book entitled Nausea by Jean-Paul Sartre. “It was true, I had already realized it – I hadn’t any ‘right’ to exist at all. I had appeared by chance, I existed like a stone, a plant, a microbe. I could feel nothing to myself but an in sequential buzzing. I was thinking…that there we are eating and drinking, to preserve our precious existence, and that there’s nothing, nothing, absolutely no reason for existing.”<br><br>" +
+                    "<b>Ask about the passage:</b> What do you say about that?<br><br>" +
+                    "<b>Ask about the result of putting faith in God:</b> What does faith in God give us?…A reason to live, a purpose<br><br>" +
+                    "<b>Talk about the result of conversion:</b> If we convince/ persuade a non-believer that there is a God, we gain a follower of Christ. How long does that last?…Forever!! If a non-believer convinces a believer that there is no God, they gain self-praise. How long does that last?…A week or month.<br><br>" +
+                    "<b>Read Matthew 5:12…</b>Our rewards last for eternity<br><br>" +
+                    "<b>Summary of lesson:</b><br><br>" +
                     "What should we do when we doubt?…Seek help from God and seek help from others<br>" +
                     "What do we need to realize?…Even if we get what we think we want from God, we won’t be satisfied. Faith in God will satisfy us and quench our thirst.<br>" +
                     "What should we do to help with our doubting problem?…(1) Fully commit ourselves to God so that what we want becomes what we need. (2) Acknowledge the power and influence that our selfless lifestyle is. (3) Our rewards will last for eternity.<br><br>" +
-                    "Ask about your doubts: Do you have any doubts? Write them down and follow the steps above.<br><br>"
+                    "<b>Ask about your doubts:</b> Do you have any doubts? Write them down and follow the steps above.<br><br>"
         ),
 
         Lesson(
@@ -1067,7 +1067,24 @@ object LessonData {
             "Lesson #39",
             "God's Warmth",
             "Who God Is",
-            "Ask about self-control: What are some examples of having self-control?…Being calm instead of getting angry about something, doing what is right even when you have a temptation to do something wrong, being sober instead of being drunk, etc.<br><br>"
+            "Ask about camping: Who loves camping? What’s the best part about camping? Who loves campfires? S’mores?<br><br>" +
+                    "Ask about campfires: Why do we love campfires so much?... On a chilly night, campfires provide warmth and a good source of light for us.<br><br>" +
+                    "Ask about moving away from the fire: What happens if we move away from the fire?... The farther away we move from the fire, the less you feel its warmth and see its light.<br><br>" +
+                    "Talk about God vs fire: Can we compare God to a fire? If so, how?... God provides us warmth (comfort) and light (direction) in darkness. God’s presence is welcoming and inviting, just like a campfire with your friends.<br><br>" +
+                    "Talk about closeness: Unfortunately, we don’t always feel close to God. For example, when we have financial or relational issues, it is hard to feel joy and comfort from anything or anyone in the middle of it.  <br><br>" +
+                    "Ask about not feeling God’s warmth: Generally, in what cases do we tend not to see God’s light or feel His warmth…? When we are experiencing difficulties or during uncomfortable circumstances.<br><br>" +
+                    "Ask about examples of difficulties: What are some difficulties that you have experienced in which it was difficult to experience joy or comfort from others?<br><br>" +
+                    "Talk about difficulties: During these difficulties, it is easy to feel like God has forgotten you or that he doesn’t exist. We may ask ourselves, “What did I do to deserve this? I’m a good person. Why is this happening to me?” Has anyone ever asked this?<br><br>" +
+                    "Ask about God leaving us: Does God ever leave us?<br><br>" +
+                    "Read Deuteronomy 31: 8-9… The answer to that question is a big fat “NO!”. He will never ever leave us!<br><br>" +
+                    "Ask about comfort: How can we seek God’s comfort?... Look to the Book of James<br><br>" +
+                    "Talk about the Book of James: The book of James was originally intended for Jews who recently discovered Jesus and did not know how to follow Him. Jews, originally, had many religious traditions to help them connect with God. When Jesus came around, many of the traditions discontinued. As Christians, we have always been confused on how to “adequately connect” to God. Truth is that there are many ways to connect to Him. Humans tend to complicate things. Jesus helped to clear up some of the complications.<br><br>" +
+                    "Read James 4:1-12<br><br>" +
+                    "Ask about the scripture: What does James tell us to do?... God is always there. The fire is always lit, and it is easily accessible. We have the map to get to it. We just need to remember that it is there. As verse 8 states in NIV, “Come near to God and he will come near to you”. It indicates that when we draw near to God, God will provide the necessary help to you, providing aid in fleeing from sin and lifting you up when you are down, if we submit to Him. <br><br>" +
+                    "Read Romans 8:31-39…What do these verses say about God’s accessibility?... Nothing will separate us from God’s love. It states in verse 37 that we are more than conquerors through God who loves us. This is such a powerful message, stating that through God we will conquer evil. It is one thing to conquer sin and evil and it is another thing to conquer beyond that. According to verse 38 in NIV, “Neither death nor life, neither angels nor demons, neither the present nor the future, nor the powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord”. Even though we may experience pain in hardships and struggle, God is always present and His love in Jesus will never leave us. <br><br>" +
+                    "Read Proverbs 8:17<br><br>" +
+                    "Ask about feeling God’s warmth: What must we do in order to continually feel God’s warmth and presence?...If we continually seek Him, we will regularly experience God’s warmth. We can seek God in a variety of ways laid out in the Bible. Some of these facets include prayer, worship, discipling others, being discipled by others, attending and participating in Bible study groups, and meditating in the Word. More specifically, in prayer you could tell God, “I want to be nearer to you”, you could praise God by worshipping with intent to connect, serve God in the church or community, and you could be more intentional in the Word with what you are studying.<br><br>" +
+                    "Conclude: No matter how hard life is, God will always be there with open arms, visible from miles away, ready for you to receive His warmth and love. Once we understand Him and how He works, we can become stronger and can handle life better. Here are a few things that you may learn when reading the Bible: (1) We are not fully in control of our lives, (2) Life is unpredictable, (3) Bad things do happen to good people, and (4) Life is impartial, which appears unfair at times. Remember this above all: God will comfort you if you seek Him wholeheartedly.<br><br>"
         ),
 
         Lesson(
@@ -1108,7 +1125,26 @@ object LessonData {
             "Lesson #41",
             "Heaven",
             "Heaven, Hell and Sin",
-            "Ask about self-control: What are some examples of having self-control?…Being calm instead of getting angry about something, doing what is right even when you have a temptation to do something wrong, being sober instead of being drunk, etc.<br>"
+            "Ask about Heaven: What is heaven?...According to Dictionary.com, heaven is “the place or state of existence of the blessed after the mortal life. The abode of God, the angels and the spirits of the righteous after death.\"<br><br>" +
+                    "Ask about the definition: Is this definition missing any important details?<br><br>" +
+                    "Talk about the definition from the Bible dictionary: According to a Bible dictionary, the “physical description of Heaven” can be found in Job 26:10-11. According to a Bible Commentary, the “pillars of heaven” may refer to mountains that seem to support the sky. This verse is describing the connection between heaven and Earth. Some biblical scholars refer to the sky and the universe as the first level of heaven. The cartoons about God overlooking us from the clouds may be somewhat accurate.<br><br>" +
+                    "Read Genesis 28:10-22…Jacob dreamt of heaven in these verses.<br><br>" +
+                    "Ask about the description of heaven: How was heaven described in these verses?...There was a stairway coming from the Earth, angels were descending and ascending on the stairway, he said he saw the gate to heaven, at the top of the stairs was God himself.<br><br>" +
+                    "Ask about Jacob’s reaction: What was Jacob’s reaction to heaven?...Jacob said, How awesome is this place!<br><br>" +
+                    "Ask about being in awe: How would you describe the action of being in awe of something?<br><br>" +
+                    "Ask about levels: Are there different levels of heaven?<br><br>" +
+                    "Read 2 Corinthians 12:1-10…What does Paul mean by the third heaven?...According to a Bible Commentary, the third level of heaven is referred to as “the highest part of heaven, beyond the atmosphere and stars, where God himself resides”<br><br>" +
+                    "Talk about the third level of heaven: How was the third level of heaven described here?...It is described as a paradise, you may hear inexpressible things, and Paul is not be permitted to tell. Why didn’t Paul give a detailed description of heaven? Rather, he described aspects of heaven as “inexpressible” and we are not allowed to know…Maybe it is meant to be like a surprise party. Just like a surprise party, it is more exciting when we don’t know what it will be like. If there is a third level of heaven, there must be two other levels.<br><br>" +
+                    "Ask about the other levels of heaven: What do you think the other two levels of heaven are described as?<br><br>" +
+                    "Describe Daniel 7:13-14…”coming with the clouds of heaven” may mean that there is a level of heaven within the clouds of the Earth. A Bible commentary describes the first level of heaven as “within the clouds”.<br><br>" +
+                    "Read Genesis 1:14-18… “The lights in the vault of the sky to separate the day from night” are referred to as what?...stars. The second level of heaven may be referred to as the stellar space or the universe. According to the Bible Commentary, angelic beings dwell in the second level of heaven.<br><br>" +
+                    "Read John 14:1-3…According to this scripture, what level of heaven will Christ followers go when they die?...God’s plan is for us to join him in the third level of heaven, where he dwells….Heaven has how many rooms?<br><br>" +
+                    "Read Revelation 21:1-14…The current heaven (and Earth) are temporary. When will it change?...When Jesus comes again. What does it mean by “the bride beautifully dressed for her husband”?...The coming of Jesus is the mark that heaven and Earth will become as one and God will wipe sin from the face of the planet.<br><br>" +
+                    "Read Revelation 21:15-27…What are some additional key components to heaven?...God will replace the sun. God’s presence will bring light to the newly lit Earth.<br><br>" +
+                    "Talk about the description of heaven according to the Bible Dictionary: Refer to Bible dictionary. This description is post-Jesus’s second coming. 1) Heaven possesses the glory (Rev 21:11). 2) It’s light is like unto a stone most precious, even like a jasper stone, clear as crystal (Rev 21:11). 3) The city is called “the Bride, the Lamb’s wife” (Rev 21:9). Why is it called that?...It shows the connection between the church, the Bride (now called “wife” since the marriage is consummated), indicating Christ joining with His people. 4) The foundation of the walls are garnished with precious stones, jasper, sapphire, chalcedony, emerald, sardonyx, sardius, chrysolite, beryl, topaz, etc. 5) Each one of the twelve gates consist of one huge pearl. 6) Paradise (as it was before the Fall) and the “tree of life” are restored (Rev 22:2).<br><br>" +
+                    "Read John 3:16-17…How do we obtain this gift of heaven?...By putting our faith in Christ. Those who enter it will be made partakers of Christ’s fullness (John 1:16) which is all fullness (Col. 1:19). What does it look like to partake in fullness?...To be complete, to lack nothing, to experience and know everything (maybe).<br><br>" +
+                    "Ask about the mysteriousness of heaven: Why is heaven so mysterious? Why does the Bible only give us so much information about heaven?<br><br>" +
+                    " <br><br>"
         ),
 
         Lesson(
@@ -1144,28 +1180,116 @@ object LessonData {
             "Lesson #44",
             "Money Management",
             "Important Aspects of a Christ Follower",
-            "Ask about self-control: What are some examples of having self-control?…Being calm instead of getting angry about something, doing what is right even when you have a temptation to do something wrong, being sober instead of being drunk, etc.<br>"
+            "Talk about being smart with money: There are several verses in the Bible that indicate that we should be smart with our money.<br><br>" +
+                    "Read 1 Timothy 6:10: When it comes to money, this should be one of the primary Biblical concepts that we should keep in mind. ‘Having’ money is not the issue. Loving money is the real issue.<br><br>" +
+                    "Ask about loving money: Why is loving money an issue? In some translations, money is the root of all kinds of evil. The Bible is, in a sense, comparing the love of money to a gateway drug. It is indicating that the love of money can lead us to loving and living for other evils in this world rather than living for God.<br><br>" +
+                    "Talk about the other evils: What are some other evils that this verse is referring to?<br><br>" +
+                    "Read Galatians 5: 19-21: These are some of the many evils that may overcome you after being consumed by the love of money.<br><br>" +
+                    "Ask about money in the Bible: What does the Bible say about money and what to do with it?<br><br>" +
+                    "Put your worries and faith in God (Read Matthew 6: 25-34). This does not mean that you should not be mindful or not care about how little or how much you have. You should always work hard and you should always be mindful of how much you have because laziness and a lack of awareness is foolish (Read Proverbs 6: 9-11).<br><br>" +
+                    "Ask about putting our worries on God: What does it look like to put our worries about money on God?...It means that we should trust God that He will provide what we need, even if it means that it is in God’s Will for you to struggle financially so that you may learn and grow (Read Proverbs 5: 1-11). With God, our sufferings may bring us closer to and more dependent on Him.<br><br>" +
+                    "Earn money honestly (Read Proverbs 13:11)<br><br>" +
+                    "Ask about earning money foolishly: What are some ways that we can earn money foolishly or dishonestly?...Claiming more on your taxes, stealing, lying to a friend to get money from them.<br><br>" +
+                    "Gather and save little by little (Also from Proverbs 13:11). Obviously, money will grow when we accumulate it little by little. If we take it even further, God appears to imply that we should have consistent income to save up.<br><br>" +
+                    "Save up and be smart about it (Read Luke 14:28): Organizing and planning ahead is so important. In this passage, Jesus is referring to the cost of being a disciple. As a disciple, there should be a well executed plan. Without counting the costs of committing fully to God, you may turn away and abandon your faith. If we take this Scripture literally, it is still a good lesson on planning ahead. If we put money into building a house without factoring every part of it, our budget may be short and we might have to abandon the project before it is finished.<br><br>" +
+                    "Ask about saving: What potential future investments will need much saving for?<br><br>" +
+                    "Honor God with your wealth (Proverbs 3:9): God asks us to give back to Him since He has provided our wealth to us. It shares in the Scriptures that we must give Him our firstfruits.<br><br>" +
+                    "Ask about firstfruits: What does it mean to give God our firstfruits?...Firstfruits refers to the practice of giving God the first and best portion of the harvest. People gave to God first out of obedience and it helped to manage their greed, helped them manage God’s resources properly, and helped open them up to receive God’s special blessings. <br><br>" +
+                    "Talk about firstfruits: If you were to give God your firstfruits, what would it look like?<br><br>" +
+                    "If possible, avoid debt (Romans 13:8). If the Bible recommends to “let no debt remain outstanding” or “owe no one anything”, there is a strong chance that this is referring to money. Even though it does not appear that being in debt is a sin, it is strongly discouraged. This includes taking out loans and leases. Even though we may appear to have the funds and adequate preparation to take a loan out for something, it is still discouraged in the Bible.<br><br>" +
+                    "Ask about debt: Why does the Bible not recommend being in debt?<br><br>" +
+                    "Don’t get sucked up into the gaping black hole of consumerism. It’s not worth it. (Matthew 6:19-21) I get it. It is tempting to spend money on nice things. New electronics and all the latest games and clothes. It feels nice in the moment, right? It isn’t as worth it as you think. First of all, what you think is important and necessary now may appear useless some years from now. Also, guess how much of it you can take after you are deceased? As you probably know, none of it will come with you after you leave this earth. The Bible says we should instead build up treasures in heaven. What are these treasures in heaven that the Bible is referring to?...Treasures in heaven may be the product of faithfully enduring persecution, loving your enemies, praying in private, serving the Lord and His people, when God encourages you to do something outside your comfort zone such as giving to the needy. Heavenly treasures are beyond “stuff”. You are eternally rewarded from God for doing His work. The reward is that He is pleased with you.<br><br>" +
+                    "Ask about other verses about money: Are there any other verses about money that you can think of?<br><br>" +
+                    "Talk about money being God’s: Ultimately, the money we have is not ours. It may be in our possession at any given moment, but it can leave us as fast as it comes.<br><br>" +
+                    "Read Hebrews 13:5:  If not anything else, remember this: 1) Be content with what you have, 2) God will never leave us, 3) The love of money can lead us to living for the world and its desires, and 4) Be smart with your money.<br><br>"
         ),
 
         Lesson(
             "Lesson #45",
             "Dishonesty",
             "Heaven, Hell and Sin",
-            "Ask about self-control: What are some examples of having self-control?…Being calm instead of getting angry about something, doing what is right even when you have a temptation to do something wrong, being sober instead of being drunk, etc.<br>"
+            "Talk about honesty in Christianity: Honesty is one of many primary staples of Christianity. As Christians we are called to live honest lives, remaining honest even when it is hard and tempting.<br><br>" +
+                    "Ask about honesty in the Bible: What does it mean to be an honest person according to the Bible?<br><br>" +
+                    "Define Honest according to dictionary.com: According to dictionary.com, honesty is defined as “free of deceit and untruthfulness; sincere”. When referring to a person who is honest, they would be considered genuine.<br><br>" +
+                    "Define Honesty according to the Bible dictionary: According to the Bible Dictionary, Honesty is referred to as an upright disposition (or a person’s qualities of mind and character) and a rectitude (or morally correct behavior or thinking) in dealing with others, probity and purity.<br><br>" +
+                    "Talk about the primary aspects of honesty: It appears that there are several aspects to honesty. These include being morally correct in our words, actions, and thoughts.<br><br>" +
+                    "Ask about being morally correct with words: What are some examples of being morally correct in our words? An example of being morally correct in words includes being honest and never putting others down.<br><br>" +
+                    "Ask about being morally correct in our actions: What are some examples of being morally correct in our actions? An example of being morally correct in actions includes filing our taxes honestly.<br><br>" +
+                    "Ask about being morally correct in our thoughts: What are some examples of being morally correct in our thoughts? An example of being morally correct in our thoughts includes resisting the temptation to dwell on a sexual fantasy with an attractive girl walking down the street.<br><br>" +
+                    "Ask about difficulty with maintaining moral correction: What area is the hardest to control or has /*where one might have*/ the most difficulty in maintaining moral correction? I think most would agree that the thoughts are the hardest to control.<br><br>" +
+                    "Ask about difficulty in controlling thoughts: Why is it so difficult to control our thoughts? Read Psalm 51:5 for the Biblical answer. Our thoughts are the easiest to hide from others. As the result of being born sinful, people are naturally judgmental and selfish within that sin nature. As Christians, we are told to turn away from our sinful tendencies.<br><br>" +
+                    "Ask about being sinful at birth: Why are we sinful at birth? Read Romans 5:12-21 for the Biblical answer: Through Adam and Eve’s disobedience to God, all people have been cursed by sin. As the result of generational sin, we have the tendency to be dishonest.<br><br>" +
+                    "Ask about difficulty with being honest: In what scenarios is it the most difficult to be honest? 1) When we know that we have messed up and know that the truth will result in a major consequence, 2) When we are sure that we can get away with what we did wrong, 3) When we believe that we are protecting someone as the result of not telling the truth.<br><br>" +
+                    "Ask about dishonesty in the Bible: Can you think of a story in the Bible in which the outcome of dishonesty had dire consequences? A famous example in the Bible is when Joseph was sold into slavery by his brothers because they were jealous of him being their father’s favorite child and Joseph’s prophetic abilities to decipher dreams. Read Genesis 37:1-36 for the full story.<br><br>" +
+                    "Ask about Joseph’s brothers’ lies: Joseph’s brothers lied to Jacob, their father, about Joseph being devoured by a wild beast. What was the outcome of Joseph’s brothers’ lies and deceit? Joseph’s brothers Temporary selfish gain and regret were the outcomes of their lies. The brothers received 20 shekels of silver, which is equivalent to 200 dollars today. After Joseph returned, I’m sure his brothers felt shame and regret for their actions.<br><br>" +
+                    "Read Acts 5:1-11 for another Bible story about lying: Could someone summarize this story? Ananias and Sapphira were a married couple who sold their land and informed Peter that they were giving all of the proceeds to the disciples - only they didn’t give all of it to the disciples. They lied, telling Peter that the amount they handed over was all of the money they had when in fact they had saved some back for themselves. When Peter confronted them, they died. While sudden death seems like a very harsh punishment for lying, it shows us how much God hates dishonesty.<br><br>" +
+                    "Read Proverbs 6:16-19 for Scripture that talks about what God hates: Dishonesty is in a category of things that God hates the most. As a Christian, we should definitely try our best to remember these so that we could train ourselves to avoid them.<br><br>" +
+                    "Ask about what the Bible says about lying: What does the Bible say about lying? Read Proverbs 12:22 for the answer: Lying and untrustworthiness are affiliated here. If we are dishonest with others, people will not trust us.<br><br>" +
+                    "Ask about trustworthiness: What is the outcome of trustworthiness?: Proverbs 12:22 says that you will be delighted by God. Read Proverbs 11:28 for another part of the answer: Proverbs 11:28 says that you will flourish (Referring to blooming or flying. According to this, the product of righteousness, which includes remaining honest and faithful, is Biblical flourishing. According to the Bible Concordance, flourishing is similar to when a bird finally spreads its wings to fly for the first time or when a flower finally blooms. These are both vital milestones and changes in the lives of these organisms to deem them mature in their species. As for us, we will flourish and mature properly if we dedicate our life to honesty and righteousness.<br><br>" +
+                    "Talk about the product of dishonesty: On the other hand, what is the product of a life filled with dishonesty? Read Psalms 31:18 for the answer: Typically, pride and contempt are the product of dishonesty. Contempt can be referred to as believing that others are inferior to you and deserve scorn. A contemptuous person is also considered snobbish and selfish.<br><br>" +
+                    "Talk about the choices associated with honesty: There are two choices here. The first choice is living a life in which it is okay to be dishonest here and there or living a life dedicated to honesty and faithfulness. The second choice is living a life of honesty will result in flourishing and being delighted by God and living a life of dishonesty will result in pride and contempt.<br><br>"
         ),
 
         Lesson(
             "Lesson #46",
             "Loyalty",
             "Living Like Christ",
-            "Ask about self-control: What are some examples of having self-control?…Being calm instead of getting angry about something, doing what is right even when you have a temptation to do something wrong, being sober instead of being drunk, etc.<br>"
+            "Define loyalty: What is loyalty? According to dictionary.com, loyalty is defined as faithfulness to commitments or obligations. Synonyms include fidelity and devotion.<br><br>" +
+                    "Talk about fidelity and devotion: To understand loyalty in the Bible, we must understand fidelity and devotion.<br><br>" +
+                    "Define Biblical fidelity: Biblical fidelity is defined as “that grace [demonstrating unconditional love] in the servant which shows him to be worthy of his Master’s trust.” Where does this apply? This applies to spouses in which they are directed by God to remain faithful and constantly serve each other with loving hearts. <br><br>" +
+                    "Talk about Biblical devotion: Obviously, as followers of God, we must be loyal to Him and His commands for us. Biblical devotion is demonstrated through following God’s laws and commandments. Read Titus 1:6-9 and Exodus 20:1-17 for scripture on this. The Bible indicates that a devoted Christ follower is one who does what?…Is faithful to his/ her family, slow to anger (not quick-tempered, non-violent), loves what is good, is self controlled, is disciplined, holds firmly to the message being taught and knows how to encourage others using the Bible. <br><br>" +
+                    "Ask about characteristics of being devoted: Are there any of these characteristics of a devoted Christ follower that you seem to have down? Are there any of these that you want to work on? <br><br>" +
+                    "Ask about loyalty as a Christ follower: What happens as a Christ follower when you are loyal to God? Doubts continue to dwindle, more reliance on God, and potentially less life stress since you have decided to put your anxieties on Him and off of your shoulders.<br><br>" +
+                    "Talk about what has been discussed so far: So far we have learned that a loyal person does the following: follows his or her morals, devoted to understanding and standing by the entity that the individual intends to be loyal to, committed to giving unconditional love to the entity that he or she is being loyal to. Is there anything that was missed?<br><br>" +
+                    "Talk about roles: In our life, we may take on various roles (For example, a Christ follower). <br><br>" +
+                    "Ask about roles: In what other circumstances is loyalty important? 1) being a loyal servant to God, 2) being a loyal servant to others, including our friends, family, acquaintances and strangers, 3) being a loyal employee at the workplace, 4) being a loyal spouse. And 5) being a loyal son or daughter.<br><br>" +
+                    "Ask about additional roles: Were there any roles that were missed in which loyalty is vital?<br><br>" +
+                    "Talk about diving into scripture: Let’s dive deep into the word to find some specific examples of loyalty among these roles. So far, we have discussed being a loyal servant to God. Let’s talk about the others.<br><br>" +
+                    "Ask about the loyal child: What does it look like for a child to be loyal to his or her parents? Ephesians 6:1 directs children to obey their parents. 1 Timothy 5:8 directs children to provide for their parents when they are older and cannot provide for themselves (if needed). Matthew 15:3-6 indicated that children must not revile (or criticize in an angry or insulting manner) one’s parents. 1 Timothy 5:1 says that children should encourage our parents rather than rebuke them. <br><br>" +
+                    "Ask about the product of loyalty from a child: What happens if a kid continues to be loyal to his or her parents? Trust forms and they develop a stronger bond.<br><br>" +
+                    "Talk about a loyal spouse: What does it look like for a spouse to be loyal to their spouse? 1 Timothy 3:11 indicates that spouses should be loyal with their words as well as their actions. Proverbs 5: 15-23. What does verse 15 mean? Be faithful to your wife. Seek your wife’s love over any woman. When married, you and your spouse are considered one flesh, one cistern, one well. As a spouse, you have made a vow to invest emotionally, physically and spiritually to strengthen the bond. <br><br>" +
+                    "Ask about being unloyal to your spouse: What does it mean to drink water from a different cistern or run water from a different well? When you invest in others as you would a spouse, you are drinking water from different cisterns or running water from different wells. <br><br>" +
+                    "Ask about the product of loyalty from a spouse: What happens as a spouse when you are loyal to your spouse? Intimacy strengthens and the relationship as a unit strengthens. <br><br>" +
+                    "Ask about loyalty among people: What does loyalty among a community group look like? Constantly checking up on each other, consistently attending, being available when others need help. When we are serving and being loyal to the people around us, we are being loyal to God. What does God direct us to do to show our loyalty to them? Give accountability to those who seek it (Iron sharpens iron). Give to those in need and give with a sincere heart (Read 2 Corinthians 9:6-8).<br><br>" +
+                    "Talk about being faithful in our profession: Be faithful in your professions (Read Proverbs 16:11-21). According to the MSG version of the Bible, verse 11 is directing us to be honest in our workplace. What job was the “scales and balances” referring to?…Tax collectors. They were seen as the lowest of the low because they were often dishonest. <br><br>" +
+                    "Ask about dishonesty in the workplace: In what ways could you be dishonest in your professions/ school work? Lying to get a higher productivity, lying to get more clients, lying to receive more money.<br><br>" +
+                    "What happens as an employee that is loyal to their agency? Potentially a pay increase, potentially a higher position, potentially /*more opportunities.*/<br><br>" +
+                    "Conclusion: According to the Bible, loyalty is important. On the other hand, it is fairly easy to engage in infidelity, dishonesty, lying, and cheating in order to allegedly benefit from it. Although loyalty ultimately makes you a better spouse, a better friend, a more productive member of society, a better student, a better employee, and/ or a better friend. Loyalty helps to solidify a sense of belonging in this world, grounding you in the truth and your faith. Pursue loyalty. Do it. You won’t regret it.<br><br>"
         ),
 
         Lesson(
             "Lesson #47",
             "Forgiveness",
             "Living Like Christ",
-            "Ask about self-control: What are some examples of having self-control?…Being calm instead of getting angry about something, doing what is right even when you have a temptation to do something wrong, being sober instead of being drunk, etc.<br>"
+            "Define forgive/forgiving: According to dictionary.com, forgive/forgiving is defined as “To cease to feel resentment against” or “To pardon an offense or an offender”. <br><br>" +
+                    "<br><br>" +
+                    "Talk about what the Bible dictionary says about forgiveness: According to the Bible dictionary, forgiveness is one of the most widely misunderstood doctrines of scripture. Forgiveness can be defined in several ways. There is human forgiveness, divine forgiveness, forgiveness in the Old Testament, forgiveness for the unsaved, forgiveness for the believer who sins, the unforgivable sin (which is controversial), forgiveness as an obligation among people, and self-forgiveness. Let’s see what the Bible has to say about these.<br><br>" +
+                    "<br><br>" +
+                    "Ask about divine forgiveness: What could divine forgiveness be referring to? According to the Bible dictionary, divine forgiveness is one of the most complicated and costly undertakings, demanding complete satisfaction to meet the demands of God’s holiness. <br><br>" +
+                    "<br><br>" +
+                    "Ask about forgiveness in the Old Testament: What could forgiveness in the Old Testament be referring to? Turn to Leviticus 4:1-21 for the answer. Old Testament forgiveness occurs when a sacrifice was made. In Leviticus, it was referring specifically to the Israelites being forgiven. Whether someone sins intentionally or unintentionally, a sacrifice had to be made (usually with help from the priest) to atone for the sin that was committed. This sacrifice would be adequate enough to cover the sins at the time until the appointed time when God should finally deal with sin through Christ’s death on the cross. Read Isaiah 53:1-12 for the answer. It was prophesied that Christ’s life would be an offering for sin. <br><br>" +
+                    "<br><br>" +
+                    "Ask about forgiveness for the unsaved: What could forgiveness for the unsaved be referring to? Turn to John 10:22-32 for the answer. Forgiveness for the unsaved is referring to the forgiveness of sin that is offered due to Christ’s sacrifice. Even though forgiveness of sin is ever present, the unsaved may never receive the gift of salvation if they don’t recognize it. Faith in God and belief that Christ lived, died, and was resurrected to forgive and cover our sins is needed for those to receive the gift of salvation.<br><br>" +
+                    "<br><br>" +
+                    "Ask about forgiveness for the believer who sins: Read Romans 8:1-17 for more on this. Salvation covers the sins from a believer’s past, present and future as condemnation is concerned. In other words, as long as our faith is in the Lord, our sins are forgiven and we will be saved. Is it easy to believe that our future sins are also forgiven? <br><br>" +
+                    "<br><br>" +
+                    "Ask about a believer’s obligation: As a believer, what are we obligated to do? We must live according to the Spirit. We must pursue righteousness, live selflessly and proclaim Christ’s love for us. <br><br>" +
+                    "<br><br>" +
+                    "Ask about punishment as a believer: As believers who sin, are we still subject to punishment from God on this earth? Yes. Read Hebrews 12:4-13 for the answer. The word “chastens'' refers to discipline or punishment from God. <br><br>" +
+                    "<br><br>" +
+                    "Ask about God’s discipline: What are some examples of God’s discipline for a believer? God will use testing, trials, and various predicaments to bring us back to Himself in repentance. The result of His discipline is a stronger faith and a renewed relationship with God (Read James 1:2-4), not to mention destroying the hold that the particular sin had over us. <br><br>" +
+                    "<br><br>" +
+                    "Ask about repentance: What should we do when we realize that we have sinned? Turn to 1 John 1:9 for the answer. When we sin, he directs us to repent. If we confess our sins, he will forgive us and purify us from unrighteousness. <br><br>" +
+                    "<br><br>" +
+                    "Ask about the unforgivable sin: Have you heard of the unforgivable sin? What is it? According to some biblical scholars, the unforgivable sin was only possible to commit during Christ’s life when he was ministering in the power of the Holy Spirit. This unforgivable sin was called the blasphemy of the Holy Spirit. It appears that if you follow Satan and use his power to do what the Holy Spirit can do, it will not be forgivable. If I lived around the time that Jesus was alive and followed Baalzeboul, “the prince of demons,” and utilized Satan’s power to drive out demons, I would have committed the unforgivable sin. Jesus said that Satan can not drive himself out. We must overpower Satan rather than cooperating with him.  If this unforgivable sin existed today, churches would shut out those who have committed this sin. <br><br>" +
+                    "<br><br>" +
+                    "Ask about the obligation among people: Let’s see what the Bible says about forgiveness as an obligation among people. Read Ephesians 4:17-32 for the answer. What does this scripture say about how we should approach forgiveness? In general, believers should be kind to believers and non-believers. As a believer, we should be forgiving to all who have wronged us. Since Christ has forgiven us, we should do the same to all.<br><br>" +
+                    "<br><br>" +
+                    "Talk about forgiving yourself: We have discussed several types of forgiveness so far, including giving forgiveness to others and God forgiving us for our sins. It is so necessary to address self-forgiveness as well. <br><br>" +
+                    "<br><br>" +
+                    "Ask about difficulty with forgiving yourself: In what instances do we have difficulty forgiving ourselves? When we have hurt someone we love and when we feel guilty and there seems to be no way to make up for our mistakes. Read Hebrews 10:16-17. Why should you hold resentment towards yourself when God promises to forgive our sins if we confess them? When you choose not to forgive yourself, you live a life of pain. Our discipline often does not include grace and mercy. God has a design for discipline that is constructive and uplifting. We should let the Lord of our lives be in charge of disciplining us, not us. What are you holding onto that you should let go of?<br><br>" +
+                    "<br><br>" +
+                    "Conclusion: It is clear that forgiveness is complex and important to understand as a Christian. Please remember this: Since Christ forgave you for your sins and wrongdoings, we should forgive ourselves for our own wrongdoings and we should forgive others for the wrong that they have done to you. What resentment are you holding onto? Who do you need to give forgiveness to? Is there anyone that you want forgiveness from? Do you need to forgive yourself for something? If so, address it with God first and approach it with wisdom and truth.<br><br>"
         ),
 
         Lesson(
@@ -1179,7 +1303,47 @@ object LessonData {
             "Lesson #49",
             "Discrimination",
             "Heaven, Hell and Sin",
-            "Ask about self-control: What are some examples of having self-control?…Being calm instead of getting angry about something, doing what is right even when you have a temptation to do something wrong, being sober instead of being drunk, etc.<br>"
+            "Define discrimination: treatment or consideration of, or making a distinction in favor of or against, a person or thing based on the group, class, or category to which that person or thing belongs rather than on individual merit<br><br>" +
+                    "<br><br>" +
+                    "Where do we see this in the Bible? Israelites were viewed as inferior compared to Pharaoh’s people. Christ followers were often judged and viewed as not knowing the Bible enough. Tax collectors were viewed as liars and thieves. Prostitutes were viewed as trash. <br><br>" +
+                    "<br><br>" +
+                    "Talk about Moses and the Israelites: Who knows the story of Moses, the Israelites and Pharaoh? Let’s read Exodus 5:1-23 to find out more on this. What is this passage saying has happened between Israelites and Pharaoh? Pharaoh becomes power hungry. He wanted to grow the kingdom and expand it. He enslaved Israelites to help build his kingdom. Pharaoh was told to let Moses’s people, the Israelites, go and leave Egypt for three days so that they can celebrate and hold a festival for those days and make sacrifices to God. Pharaoh was more concerned about them making their quota and decided to turn down their request. Pharaoh directed them to keep working and Moses mentioned that he will be judged by God for his unfair way of treating them. Moses then spoke with God. <br><br>" +
+                    "<br><br>" +
+                    "Ask about examples in life: Have you ever been treated unfairly, either at work or at home? Why is it sometimes difficult to stand up for yourself and voice your concerns at work? You fear that your job is on the line. Here, the Israelites’ lives were on the line. Moses was taking a risk in telling Pharaoh that it was unfair for him to tell him that the Israelites could not go to the festival. Moses could have been killed on the spot. <br><br>" +
+                    "<br><br>" +
+                    "Ask about examples in life: What are some examples of experiencing discrimination at work, school, at home, or out in your community? In work, at school, or at home, or out in our community do we have someone to turn to when we are getting judged unfairly or getting taken advantage of? Fortunately, HR exists at work as a middle-man to potentially help address any issues between coworkers. <br><br>" +
+                    "<br><br>" +
+                    "Ask about Christians doing you wrong: What should you do if a brother or sister in Christ is /*treating*/ you wrong? <br><br>" +
+                    "<br><br>" +
+                    "Read Matthew 18:15-17 <br><br>" +
+                    "<br><br>" +
+                    "Read Exodus 6:1-12: What does God say to Moses? Basically, “I see how they have been treating you and I will take you away from the power and “yoke” of the Egyptians. There appears to be a correlation between the amount of power and the potential for discrimination towards others. According to the story of faith, this may be true: The more power and position we have, the more likely we are to discriminate against others.<br><br>" +
+                    "<br><br>" +
+                    "Who here has experienced discrimination?<br><br>" +
+                    "<br><br>" +
+                    "Talk about discrimination in the Bible: Read James 2:2-4 <br><br>" +
+                    "<br><br>" +
+                    "Ask about getting treated unfairly: Have you ever worked under a boss that treated you unfairly? Do you have an example of anybody treating you unfairly because you were different?<br><br>" +
+                    "<br><br>" +
+                    "Ask about past examples of discrimination: Is there a clear example of this in the last 100 years? Yes. Hitler was convinced that the Jews were responsible for their defeat in WWI and their economic crisis that Germany suffered through. Jews were the “scapegoat” or the entity being blamed rather than him taking full responsibility. He developed the Mein Kampf, which argued that humans should be divided into categories based on physical appearance, establishing higher and lower orders, or types of humans. At the top is the Germanic man with his fair skin, blonde hair, and blue eyes. He referred to this race as the Aryan race. He asserts that the Aryan is the supreme form of human, or master. This leaves room for discrimination and scapegoating. With the amount of power he had, he used his beliefs to influence political, religious, and moral structure. With power comes much responsibility and there is potential for so much harm if power is utilized selfishly and lustfully. <br><br>" +
+                    "<br><br>" +
+                    "Talk about Jesus and discrimination: What did Jesus do when he was faced with discrimination?<br><br>" +
+                    "<br><br>" +
+                    "Read John 8:1-8: He often used scripture and truth. Would you all agree that everyone makes mistakes and everyone sins? Do you think the Pharisees believed this as well? He used this common belief to debunk the Pharisees common false religious beliefs. <br><br>" +
+                    "<br><br>" +
+                    "Talk about Pharisees’ beliefs: What were some of these warped religious beliefs that they all thought from time to time? They somewhat believed that God favored them if they kept an outward appearance of Biblical knowledge and uprightness. Jesus helped them expose their imperfect nature, including their hypocrisy, in which their outwardly presented Biblical knowledge of right and wrong did not reflect their inward judgemental and self-righteous attitude. Power was position in this era and the Pharisees became blinded by truth due to them being immersed in their status as a Pharisee.<br><br>" +
+                    "<br><br>" +
+                    "Ask about Pharisees: What is a Pharisee anyway? The Pharisees emerged as a distinct group shortly after the Maccabean revolt, about 165-160 BCE; they were, it is generally believed, spiritual descendants of the Hasideans. The Pharisees emerged as a party of laymen and scribes in contradistinction to the Sadducees (i.e. the party of the high priesthood that had traditionally provided sole leadership to the Jewish people). Back in those days, certain people were assigned to interpret and teach the Bible to the people. They generally had much power over the general population and many of them were known to abuse their power and interpret scripture the way they wanted to. As we can see, there is a theme of abuse in power and discrimination towards a specific group. <br><br>" +
+                    "<br><br>" +
+                    "Ask about current societal issues: What are some current societal issues with discrimination that are occurring?<br><br>" +
+                    "<br><br>" +
+                    "Read Romans 12:17-21 <br><br>" +
+                    "<br><br>" +
+                    "Through all, rely on the Lord. <br><br>" +
+                    "<br><br>" +
+                    "Read Galatians 3:28: We are all one with God. It ultimately does not matter who you are, how much power you think you have, or the color of your skin. We are all one in Christ. <br><br>" +
+                    "<br><br>" +
+                    "Also, remember this: Psalm 62: 9-11<br><br>"
         ),
 
         Lesson(
@@ -1218,7 +1382,100 @@ object LessonData {
             "Lesson #51",
             "Evangelism",
             "Living Like Christ",
-            "Ask about self-control: What are some examples of having self-control?…Being calm instead of getting angry about something, doing what is right even when you have a temptation to do something wrong, being sober instead of being drunk, etc.<br>"
+            "Share about the story about my blind and deaf dog: Who has dogs? Who has a blind and deaf dog? I do. You would probably expect that he would bump into things left and right as he navigates my house.. Well, you’d be correct, somewhat. Very regularly he steps on my foot. You also probably thought that it is nearly impossible to teach a blind and deaf dog tricks, like shake, sit, and come. Well, you’d be wrong. Even though he has his obstacles, he has been able to learn a few tricks along the way. With most tricks, there is a command that is paired with the action. With motivation from food, my boy Keller has learned how to “come” or move forward with a little brush under his chin, he has learned how to sit with a boop on the nose, and he has learned how to shake with a pat on the chest. Of course treats are what ultimately motivated him. Keller, even with his challenges, is still an intelligent creature that adapts to his environment and my wife and I love him equally to our other animals. Similarly, God loves you equally as much as the non-believer. In a similar way, non-believers are still intelligent, but do not see the truth of the gospel, and we should respect them as much as we would a believer, especially when sharing our faith. Similar to my boy Keller, non-believers seem to be on a complete opposite spectrum than believers. It is almost like they speak a completely different language than Christ-followers. Do you ever feel that sharing Jesus to others is like teaching a blind and deaf dog tricks? You’d be right. Both are not easy but both are possible. You just have to be patient and have a clear plan. <br><br>" +
+                    "<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Talk about the plan: What I plan to teach you all today are these things: What is evangelism, scripture that explains what to do when sharing your faith, and an easy way to evangelize or share your faith. By the raise of hands, who’s down?<br><br>" +
+                    "<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Ask about Evangelism: What is Evangelism?…Successful Evangelism is going forth and sharing the gospel in the power of the Holy Spirit, and trusting God with the results.<br><br>" +
+                    "<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Ask about what evangelism isn’t: What is evangelism not?…Evangelism is not angrily arguing about Christianity. Evangelism is not manipulation either. It is safe to say that straight up telling a non-believer that they are going to hell if they do not follow Christ is not going to bring /*them or*/ others to follow Christ.<br><br>" +
+                    "<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Ask about scripture connected with sharing your faith: Where does it say about sharing your faith in the Bible?<br><br>" +
+                    "<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Talk about/ Write down these verses: 1 Peter 3:15-16 <br><br>" +
+                    "<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Read 1 Peter 3: As a Christ follower, God strongly encourages us to follow Jesus’s example and share the gospel to others. He is pleased when we share our faith. “Give the reason for the hope that you have”. It is not our responsibility to save others, just to share the hope of Christ. God will take care of the rest.<br><br>" +
+                    "<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Ask about the difficulty of sharing: How difficult/ easy is it to share the gospel to others? Pretty intimidating and difficult /*at times*/ , right?<br><br>" +
+                    "<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Read 1 Corinthians 3:6-9<br><br>" +
+                    "<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Talk about planting the seed: Just plant /*maybe add “or water”*/ the seed and God will do the rest. When you think of it this way, it is not as scary and intimidating as you probably made it to be. <br><br>" +
+                    "<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Talk about how to begin with sharing: You may be thinking, “Where do I start?” Let me help you with that one!<br><br>" +
+                    "<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Ask about places to start: But first, where do you think would be a good place to start when sharing the gospel with others?<br><br>" +
+                    "<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Talk about Bible basics: <br><br>" +
+                    "<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Read John 3:16<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "The 4 laws-<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "God loves you and has a wonderful plan for your life<br><br>" +
+                    "We are separated from God because of sin<br><br>" +
+                    "God sent His Son Jesus as the perfect sacrifice to pay for our sin and reconcile us to God<br><br>" +
+                    "We must individually receive Jesus Christ as Savior and Lord; then we can know and experience God’s love and plan for our lives<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Talk about the fundamentals: Now that you know the fundamentals of Christianity, you are almost on your way to share the gospel<br><br>" +
+                    "<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Talk about what they need to consider: <br><br>" +
+                    "<br><br>" +
+                    "There still are a few things to consider before sharing your faith though:<br><br>" +
+                    "<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Be sure that you are a Christian<br><br>" +
+                    "Be sure there is no unconfessed sin in your life/Repent<br><br>" +
+                    "Be prepared to communicate your faith in Christ<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Talk about a key component: A key component of sharing is understanding your own faith. If you don’t understand it, then how can you communicate it? You may understand what faith is, according to scripture, and you may know how you received your faith, but can you explain why you have faith in God? In my opinion, one of the most important aspects of sharing the gospel and your faith is sharing part of your testimony. People want to hear about your story of why you chose to receive faith in Christ. <br><br>" +
+                    "<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Talk about asking about faith: If I were to come up to you and ask, “Why do you (insert name here) have faith in God, an invisible, apparently all-knowing and all-powerful entity, would you be able to state a clear reason? You should know your reasons well enough to explain them to others when asked about them. If you don’t know why you have faith, then how do you keep faith? You won’t, /*trust*/ me. I would recommend having a list of 3 personal reasons for why you have faith.<br><br>" +
+                    "<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Conclusion: I get it. It is going to feel uncomfortable and it is going to be difficult, but it might not always be difficult. Eventually, Keller, my blind and deaf dog learned his tricks and now he understands the commands pretty well. He basically expects that I want him to do the trick if the specific command is given. Similar to Keller, your friends, family, and even strangers will eventually get used to you being a Christian and what goes along with being a Christian, one of them being that you share your faith. <br><br>" +
+                    "<br><br>" +
+                    " <br><br>" +
+                    "<br><br>" +
+                    "Talk about sharing with others: I want you to pull out your phone or a piece of paper and pen if you have one. I want you to write down 1-2 names of people in your life, maybe friends or family members that are non-believers, that you may consider sharing your faith to. I’ll give you a minute to do so.<br><br>" +
+                    "<br><br>" +
+                    "Final comment:  Any questions? If not, Go forth and share your faith with others! I believe in you all!<br><br>"
         ),
 
         Lesson(
